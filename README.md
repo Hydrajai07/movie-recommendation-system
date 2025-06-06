@@ -2,9 +2,7 @@
 This is a simple content-based movie recommendation system built using Python. It suggests similar movies based on genres and keywords. This project works even if pip installations are unavailable — it only uses Python's built-in libraries.
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 ├── Movie_recomadation.ipynb     # Jupyter notebook implementation
 ├── movies.csv                   # Dataset with movie info
 ├── recommend.py                 # Pure Python version (no external libraries)
