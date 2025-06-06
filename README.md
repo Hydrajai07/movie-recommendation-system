@@ -3,10 +3,10 @@ This is a simple content-based movie recommendation system built using Python. I
 
 📁 Project Structure
 
-├── Movie_recomadation.ipynb     # Jupyter notebook implementation
-├── movies.csv                   # Dataset with movie info
-├── recommend.py                 # Pure Python version (no external libraries)
-└── README.md                    # Project overview
+* Movie_recomadation.ipynb     # Jupyter notebook implementation
+*  movies.csv                   # Dataset with movie info
+*  recommend.py                 # Pure Python version (no external libraries)
+*  README.md                    # Project overview
 📚 Dataset
 The dataset used is a small custom movies.csv file with the following structure:
 
